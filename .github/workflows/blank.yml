@@ -31,3 +31,5 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+    #run add unlimited member group channel not test 
+    -name add subcriber add unlimited
